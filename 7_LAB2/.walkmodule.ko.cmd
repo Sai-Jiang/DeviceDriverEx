@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/7_LAB2/walkmodule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/7_LAB2/walkmodule.ko /home/sai_j/WLDD/7_LAB2/walkmodule.o /home/sai_j/WLDD/7_LAB2/walkmodule.mod.o

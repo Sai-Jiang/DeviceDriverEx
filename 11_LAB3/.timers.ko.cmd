@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/11_LAB1/timers.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/11_LAB1/timers.ko /home/sai_j/WLDD/11_LAB1/timers.o /home/sai_j/WLDD/11_LAB1/timers.mod.o

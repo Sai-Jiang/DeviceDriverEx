@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/24_LAB1/netdrv.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/24_LAB1/netdrv.ko /home/sai_j/WLDD/24_LAB1/netdrv.o /home/sai_j/WLDD/24_LAB1/netdrv.mod.o

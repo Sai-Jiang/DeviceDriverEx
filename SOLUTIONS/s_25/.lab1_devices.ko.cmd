@@ -1,0 +1,1 @@
+cmd_/home/sai_j/SOLUTIONS/s_25/lab1_devices.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/SOLUTIONS/s_25/lab1_devices.ko /home/sai_j/SOLUTIONS/s_25/lab1_devices.o /home/sai_j/SOLUTIONS/s_25/lab1_devices.mod.o

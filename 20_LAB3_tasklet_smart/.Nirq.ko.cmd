@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/20_LAB3_tasklet_smart/Nirq.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/20_LAB3_tasklet_smart/Nirq.ko /home/sai_j/WLDD/20_LAB3_tasklet_smart/Nirq.o /home/sai_j/WLDD/20_LAB3_tasklet_smart/Nirq.mod.o

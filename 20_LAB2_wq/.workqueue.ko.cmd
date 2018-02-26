@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/20_LAB1_wq/workqueue.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/20_LAB1_wq/workqueue.ko /home/sai_j/WLDD/20_LAB1_wq/workqueue.o /home/sai_j/WLDD/20_LAB1_wq/workqueue.mod.o

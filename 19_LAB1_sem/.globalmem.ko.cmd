@@ -1,0 +1,1 @@
+cmd_/home/sai_j/WLDD/19_LAB1_3/globalmem.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sai_j/WLDD/19_LAB1_3/globalmem.ko /home/sai_j/WLDD/19_LAB1_3/globalmem.o /home/sai_j/WLDD/19_LAB1_3/globalmem.mod.o
